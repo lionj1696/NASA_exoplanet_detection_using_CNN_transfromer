@@ -235,25 +235,6 @@ All metrics are reported on the held-out validation fold (fold 0) unless otherwi
 
 ---
 
-## Citation
-
-If you use this code or methodology in your research, please cite:
-
-```bibtex
-@misc{exoplanet_hybrid_cnn_transformer,
-  author    = {[Author Names]},
-  title     = {Exoplanet Transit Detection using Hybrid CNN-Transformer
-               with Explainable AI},
-  year      = {2025},
-  publisher = {GitHub},
-  url       = {https://github.com/<your-username>/NASA_exoplanet_detection_using_CNN_transfromer},
-  note      = {Software pipeline for automated KOI classification
-               from Kepler photometry}
-}
-```
-
----
-
 ## License
 
 This project is released under the [MIT License](LICENSE).
